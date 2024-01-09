@@ -775,4 +775,4 @@ let example = [
 // console.log(pascalsTriangle(5))
 
 
-
+// pushed the code to github
